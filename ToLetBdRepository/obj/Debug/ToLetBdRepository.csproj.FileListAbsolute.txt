@@ -1,0 +1,14 @@
+E:\10th Semester\ASP.NET\Final_Term\ToLetBd\ToLetBdRepository\obj\Debug\ToLetBdRepository.csprojResolveAssemblyReference.cache
+E:\10th Semester\ASP.NET\Final_Term\ToLetBd\ToLetBdRepository\bin\Debug\ToLetBdRepository.dll.config
+E:\10th Semester\ASP.NET\Final_Term\ToLetBd\ToLetBdRepository\bin\Debug\ToLetBdRepository.dll
+E:\10th Semester\ASP.NET\Final_Term\ToLetBd\ToLetBdRepository\bin\Debug\ToLetBdRepository.pdb
+E:\10th Semester\ASP.NET\Final_Term\ToLetBd\ToLetBdRepository\bin\Debug\EntityFramework.dll
+E:\10th Semester\ASP.NET\Final_Term\ToLetBd\ToLetBdRepository\bin\Debug\EntityFramework.SqlServer.dll
+E:\10th Semester\ASP.NET\Final_Term\ToLetBd\ToLetBdRepository\bin\Debug\ToLetBdEntity.dll
+E:\10th Semester\ASP.NET\Final_Term\ToLetBd\ToLetBdRepository\bin\Debug\ToLetBdInterface.dll
+E:\10th Semester\ASP.NET\Final_Term\ToLetBd\ToLetBdRepository\bin\Debug\ToLetBdEntity.pdb
+E:\10th Semester\ASP.NET\Final_Term\ToLetBd\ToLetBdRepository\bin\Debug\ToLetBdInterface.pdb
+E:\10th Semester\ASP.NET\Final_Term\ToLetBd\ToLetBdRepository\bin\Debug\EntityFramework.xml
+E:\10th Semester\ASP.NET\Final_Term\ToLetBd\ToLetBdRepository\bin\Debug\EntityFramework.SqlServer.xml
+E:\10th Semester\ASP.NET\Final_Term\ToLetBd\ToLetBdRepository\obj\Debug\ToLetBdRepository.dll
+E:\10th Semester\ASP.NET\Final_Term\ToLetBd\ToLetBdRepository\obj\Debug\ToLetBdRepository.pdb
